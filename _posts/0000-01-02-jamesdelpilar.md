@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is James Del Pilar's slide
-Use the left arrow to go back!
+Use the left arrow to go back!This is my awesome slide
